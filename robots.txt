@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chunzheRen.github.io/sitemap.xml
+Sitemap: https://chunzheren.github.io/sitemap.xml
